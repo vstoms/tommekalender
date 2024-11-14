@@ -28,7 +28,7 @@ A Next.js application that displays waste collection schedules for Norwegian hou
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/tommekalender.git`
+1. Clone the repository: `git clone https://github.com/vstoms/tommekalender.git`
 2. Navigate to the project directory: `cd tommekalender`
 3. Install dependencies: `npm install` or `yarn install`
 4. Start the development server: `npm run dev` or `yarn dev`
