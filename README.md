@@ -2,6 +2,9 @@
 
 A Next.js application that displays waste collection schedules for Norwegian households. The application fetches data from the renovation portal API and presents it in a clean, user-friendly interface.
 
+![Dashboard](/img/renovasjon.png)
+
+
 ## Features
 
 - 📅 Display upcoming waste collection dates
